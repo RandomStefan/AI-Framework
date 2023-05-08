@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{bb3eb8c3-958b-42a7-b158-78041e091fca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Agents">
+      <UniqueIdentifier>{7dfc0529-d9ed-4aed-930f-fa8dd6d256c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Steering">
+      <UniqueIdentifier>{36f02b7b-a007-4900-821c-ebb7f4653c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Path Finding">
+      <UniqueIdentifier>{a49aea23-05a5-47a6-8aec-f37eabc02a70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{dbd884d8-f8d8-42c9-9ba8-e5ed9d41ea86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base Files">
+      <UniqueIdentifier>{d0f87f4d-726d-41c0-86aa-c4cebb580fe4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseEntity.cpp">
+      <Filter>Base Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Base Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GridManager.cpp">
+      <Filter>Base Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMachine.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="StateOne.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="StateTwo.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="IdleState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Boid.cpp">
+      <Filter>Agents</Filter>
+    </ClCompile>
+    <ClCompile Include="Seeker.cpp">
+      <Filter>Agents</Filter>
+    </ClCompile>
+    <ClCompile Include="UtilRandom.cpp">
+      <Filter>Base Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding.cpp">
+      <Filter>Agents</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="StateOne.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="StateTwo.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilRandom.h">
+      <Filter>Base Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilFunc.h">
+      <Filter>Base Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="IdleState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseEntity.h">
+      <Filter>Base Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Base Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GridManager.h">
+      <Filter>Base Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Base Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Boid.h">
+      <Filter>Agents</Filter>
+    </ClInclude>
+    <ClInclude Include="Seeker.h">
+      <Filter>Agents</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding.h">
+      <Filter>Agents</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\boid.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

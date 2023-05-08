@@ -1,0 +1,122 @@
+﻿  BaseEntity.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\BaseEntity.cpp(65,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\BaseEntity.cpp(136,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\BaseEntity.cpp(136,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Boid.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\Boid.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\Boid.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\Boid.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+  GridManager.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.h(19,32): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.h(20,33): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.cpp(441,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.cpp(441,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.cpp(449,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IdleState.cpp
+  main.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.h(19,32): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.h(20,33): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(71,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(72,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(74,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(74,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(74,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(75,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(75,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(84,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(84,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(85,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(85,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(87,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(87,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(88,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(88,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\main.cpp(122,15): warning C4101: 'dataAgent': unreferenced local variable
+  PathFinding.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.h(19,32): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\GridManager.h(20,33): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\PathFinding.cpp(11,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  QuadTree.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\QuadTree.cpp(44,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\QuadTree.cpp(44,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\QuadTree.cpp(45,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\QuadTree.cpp(45,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Seeker.cpp
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\Seeker.cpp(11,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  StateMachine.cpp
+  StateOne.cpp
+  StateTwo.cpp
+  UtilRandom.cpp
+  Generating Code...
+D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\IdleState.cpp(15): warning C4715: 'IdleState::Think': not all control paths return a value
+sfml-system-s-d.lib(Clock.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Clock.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Err.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Err.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Lock.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Lock.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Mutex.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Mutex.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Sleep.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Sleep.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(String.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(String.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocal.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ThreadLocal.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(Time.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(Time.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ClockImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ClockImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(MutexImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(MutexImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(SleepImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(SleepImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(BlendMode.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(BlendMode.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Color.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Font.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Font.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Glsl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLCheck.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLExtensions.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Image.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(ImageLoader.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderStates.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderTarget.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RenderWindow.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shader.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Texture.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(TextureSaver.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(TextureSaver.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Transform.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transform.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(View.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(View.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Vertex.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Vertex.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(GLLoader.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(GLLoader.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shape.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shape.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(CircleShape.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(CircleShape.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(RectangleShape.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(RectangleShape.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Sprite.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Text.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Text.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(VertexArray.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Context.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Context.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlContext.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlResource.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlResource.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Joystick.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickManager.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Mouse.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Mouse.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(SensorManager.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(SensorManager.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VideoMode.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VideoMode.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(Window.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Window.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WglContext.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WglExtensions.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(InputImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(JoystickImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(SensorImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(SensorImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(VideoModeImpl.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowImplWin32.cpp.obj)' or at ''; linking object as if no debug info
+  AIFramework.vcxproj -> D:\Desktop\Productivity\Coding\Projects\ai-practical-RandomStefan\AI-Framework\Debug\AIFramework.exe
